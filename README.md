@@ -1,6 +1,6 @@
 # Neuracode AI
 
-8-15 yaş arası çocukların ve gençlerin, tarım temalı bir oyun içinde Python programlamayı ve yapay zekâyı öğrendiği Android uygulaması. T3 Vakfı Creathon projesi.
+8-15 yaş arası çocukların ve gençlerin, tarım temalı bir oyun içinde Python programlamayı ve yapay zekâyı öğrendiği Android uygulaması.
 
 Kullanıcı klavye kullanmadan, ekrandaki kod bloklarını sürükle-bırak ile yerleştirerek bir tarım dronunu (ve Tech-Trax Rover kara aracını) kontrol eder. Kod çalıştığında drone simülasyon ekranında tarlayı tarar, köstebeği tespit eder.
 
