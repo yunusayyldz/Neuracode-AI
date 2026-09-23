@@ -1,0 +1,21 @@
+# Android / Gradle build artifacts
+.gradle/
+build/
+.kotlin/
+.idea/
+*.iml
+local.properties
+
+# Node
+node_modules/
+
+# Obsidian runtime
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/cache/
+
+# OS / editor
+desktop.ini
+.DS_Store
+Thumbs.db
+.vscode/

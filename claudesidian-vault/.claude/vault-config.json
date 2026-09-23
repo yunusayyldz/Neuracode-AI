@@ -1,0 +1,21 @@
+{
+  "user": {
+    "name": "Yunus",
+    "background": {},
+    "profileSources": [],
+    "customContext": "Yazılım geliştirme projeleri üzerine odaklanmış bir sistem.",
+    "publicProfile": false
+  },
+  "vaultPath": "c:\\Users\\Yunus\\Desktop\\Neuracode AI\\claudesidian-vault",
+  "fileNamingPattern": "YYYY-MM-DD - Başlık",
+  "organizationMethod": "PARA",
+  "primaryUses": ["software development", "project management"],
+  "tools": {
+    "geminiVision": false,
+    "firecrawl": false
+  },
+  "projects": [],
+  "areas": [],
+  "importedAt": "2026-05-04",
+  "lastUpdated": "2026-05-04"
+}
