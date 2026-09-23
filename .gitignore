@@ -19,3 +19,9 @@ desktop.ini
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Android build outputs
+*.apk
+*.aab
+captures/
+.cxx/
